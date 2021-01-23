@@ -1,0 +1,19 @@
+%%%-------------------------------------------------------------------
+%%% @author snow
+%%% @copyright (C) 2021, <COMPANY>
+%%% @doc
+%%%
+%%% @end
+%%% Created : 08. 一月 2021 13:20
+%%%-------------------------------------------------------------------
+{application, spider, [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+    kernel,
+    stdlib
+  ]},
+  {mod, {spider, []}},
+  {env, []}
+]}.
