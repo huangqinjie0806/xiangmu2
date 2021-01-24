@@ -1,8 +1,8 @@
 {application, spider,
-  [{description,[]},
+ [{description,[]},
 {vsn, "1"},
 {registered, []},
 {applications, [kernel, stdlib]},
 {mod, {spider, []}},
 {env,[]},
-{modules, [tat1]}]}.
+{modules, [tat2]}]}.
